@@ -34,10 +34,10 @@ export default async function Home() {
             {/* Hero Section */}
             <div className="bg-hero relative bg-secondary text-white py-20 lg:py-32">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
-                    <h1 className="front_text_head" className="text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight text-blue-400">
+                    <h1 className="front_text_head text-4xl md:text-5xl lg:text-6xl font-bold mb-6 leading-tight text-blue-400">
                         স্মার্ট পৌরসভা সুন্দর জীবন
                     </h1>
-                    <p className="front_text_sub" className="text-lg md:text-xl text-blue-400 mb-10 max-w-2xl mx-auto">
+                    <p className="front_text_sub text-lg md:text-xl text-blue-400 mb-10 max-w-2xl mx-auto">
                         নাগরিক সেবা এখন হাতের মুঠোয়। আপনার এলাকার যেকোনো সমস্যা
                         বা অভিযোগ আমাদের জানান, আমরা আছি আপনার পাশে।
                     </p>
